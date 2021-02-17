@@ -1,0 +1,14 @@
+Package: FARS
+Type: Package
+Title: Read Fatality Analysis Reporting System (FARS) data
+Version: 0.1
+Author: EMILIO HENRIQUE GARCIA DIAZ
+Maintainer: EMILIO GARCIA <eg@newtonspark.com>
+Description: COURSERA: BUILDING R PACKAGES, Peer-graded Assignment
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
