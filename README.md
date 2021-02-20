@@ -15,4 +15,5 @@ After running the test the result:
 
 Taking into consideration the state number 49 the chart shows the following:
 
+![](Rplot.png)
 
